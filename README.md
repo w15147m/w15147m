@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Softleed**
+ 🔭 I’m currently working at **Softleed**
   
  🌱 I’m currently learning **React, playWright, Mern Stack**
 
