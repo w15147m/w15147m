@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Waseem+Abbas!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Pakistan</h3>
+<h3 align="center">A passionate software developer from Pakistam</h3>
 
 <br/>
 
@@ -10,14 +10,15 @@
  
  🔭 I’m currently working on **Softleed**
   
- 🌱 I’m currently learning **React, PlayWright, MERN Stack**
+ 🌱 I’m currently learning **React, playWright, Mern Stack**
 
-💬 Ask me about **Vue.js, Laravel, MySQL... or anything [here](https://github.com/w15147m)**
+💬 Ask me about **vue.js, Laravel, MySql... or anything [here](https://github.com/w15147m)**
 
-</div>
+
+ </div>
  
 <div align="center"> 
-  <a href="mailto:waseemofficee@gmail.com">
+  <a href="waseemofficee@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/waseemoffice/" target="_blank">
@@ -25,12 +26,13 @@
   </a>
 </div>
 
-<hr/>
+ <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,bootstrap,tailwind,javascript,firebase,mysql,react,git,github,figma" />
+   <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma,html,css,vscode,bootstrap,tailwind,javascript,vue,react,git,github," />
+   <img src="https://skillicons.dev/icons?i=firebase,php,laravel,mysql," />
 </div>
 
 <br/>
