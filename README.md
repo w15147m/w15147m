@@ -12,7 +12,7 @@
   
  🌱 I’m currently learning **React, playWright, Mern Stack**
 
-💬 Ask me about **vue.js, Laravel, MySql... or anything [here](https://github.com/w15147m)**
+💬 Ask me about **vue.js, Laravel, MySql... or anything [here](https://github.com/w15147m/w15147m/issues)**
 
 
  </div>
@@ -40,10 +40,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
- &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=w15147m&count_private=true&theme=react&border_radius=10" alt="w15147m"/>  
- <br>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w15147m&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="w15147m" />
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=w15147m&count_private=true&theme=react&border_radius=10" alt="sw15147m"/>  
- 
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=w15147m&count_private=true&theme=react&border_radius=10" alt="w15147m" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=w15147m&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="w15147m" />
+  <div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=w15147m&count_private=true&theme=react&border_radius=10" alt="sw15147m" />
+
+</div>
 </div>
