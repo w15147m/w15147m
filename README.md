@@ -42,12 +42,12 @@
 <br>
 <div style="display: flex; justify-content: center; gap: 10px;">
       <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=w15147m&count_private=true&theme=react&border_radius=10" alt="sw15147m" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=w15147m&count_private=true&theme=react&border_radius=10" alt="sw15147m" />
 <br/>
-<div align="center">     <img src="https://github-readme-stats.vercel.app/api?username=w15147m&count_private=true&theme=react&border_radius=10" alt="w15147m" />
+<div align="center">     <img width=390 src="https://github-readme-stats.vercel.app/api?username=w15147m&count_private=true&theme=react&border_radius=10" alt="w15147m" />
 <br/>
 </div>
-  <div align="center">   <img src="https://github-readme-streak-stats.herokuapp.com/?user=w15147m&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="w15147m" /><br/></div>
+  <div width=390 align="center">   <img src="https://github-readme-streak-stats.herokuapp.com/?user=w15147m&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="w15147m" /><br/></div>
 
 </div>
 </div>
