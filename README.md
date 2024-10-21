@@ -37,6 +37,7 @@
 
 <br/>
 <hr/>
+[![GitHub Game of Life](https://github4life.herokuapp.com/w15147m.gif?z=6)](https://github4life.herokuapp.com/w15147m)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
