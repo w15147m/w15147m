@@ -39,6 +39,37 @@
 <hr/>
 
 
+<br/>
+<h2 align="center">📋Most use Languages and Skills and Skills 📋</h2>
+<br/>
+
+<table>
+  <tr>
+    <!-- Left Side: Interests -->
+    <td valign="top" width="50%">
+    <br/>
+     <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=w15147m&count_private=true&theme=react&border_radius=10" alt="sw15147m" />
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">⚡ Professional Skills ⚡</h3>
+      <div align="left">
+        <img src="https://skillicons.dev/icons?i=figma,vue,laravel,react,electron,mysql,git,vite,postman" />
+      </div>
+      <br/>
+      <ul>
+        <li>✅ figma</li>
+        <li>✅ Vue.js</li>
+        <li>✅ Laravel</li>
+        <li>✅ React</li>
+        <li>✅ Electron</li>
+        <li>✅ MySQL</li>
+        <li>✅ Playwright</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<hr/>
 
 
 
