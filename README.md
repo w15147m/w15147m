@@ -31,8 +31,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=figma,html,css,vscode,bootstrap,tailwind,javascript,jquery," />
-   <img src="https://skillicons.dev/icons?i=vue,react,git,github,php,laravel,firebase,mysql," />
+    <img src="https://skillicons.dev/icons?i=laravel,vue,react,electron,php,firebase,mysql,git,github " />
+ <img src="https://skillicons.dev/icons?i=javascript,tailwind,bootstrap,jquery,html,css,figma,vscode" />
+
 </div>
 
 <br/>
@@ -57,13 +58,13 @@
       </div>
       <br/>
       <ul>
-        <li>✅ figma</li>
-        <li>✅ Vue.js</li>
         <li>✅ Laravel</li>
+        <li>✅ Vue.js</li>
         <li>✅ React</li>
         <li>✅ Electron</li>
         <li>✅ MySQL</li>
         <li>✅ Playwright</li>
+        <li>✅ figma</li>
       </ul>
     </td>
   </tr>
