@@ -1,6 +1,3 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Waseem%20Abbas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Waseem+Abbas!;Full+Stack+Developer+💻;Always+Learning+New+Things+🚀&color=58a6ff" />
@@ -144,6 +141,4 @@ hobbies: ["Gaming 🎮", "Coding 💻", "Learning 📚", "Problem Solving 🧩"]
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b26-4450-e907-8cbde41b04f7.gif" width="1000">
-</div>
+
